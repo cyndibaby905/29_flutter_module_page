@@ -1,8 +1,1 @@
-# flutter_module_page
-
-A new Flutter module.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+本示例演示了如何在Flutter模块中管理导航栈切换
